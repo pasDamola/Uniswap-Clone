@@ -1,10 +1,10 @@
 import sanityClient from '@sanity/client'
 
 export const client = sanityClient({
-  projectId: 'nw03is8d',
+  projectId: 'rl28yksl',
   dataset: 'production',
   apiVersion: 'v1',
   token:
-    'skwR1AJMMGYeNnKR0EcBvjEas7tGeslX9fEFwj1ZAwC4JCZeFXGdJAl6AFUMXeSmUkxTBJ7LPgvWjbrEzCzpx5ZBWcWZrsBM1y6L6e5xyX1Fr7I5UK6i7lmFAtx4vow1SU3xsjtSySAWlS4uIapo77YZ76MtLy7Gf5W6SnMzfnA3EEkUPFee',
+    'skvcBw8ie8ds0yoo180UKHsd4138jjbyUGFoD50rqArVSDgR2q5UvqZOovkxHwnKAOr3fV5CBbTLAxoDF3yY2QqVPnkj6WK04ic91tF3pwk476pLcDqreNYkhFE71a1APZBTsriE5B00BQo9tdZIiLu0aakQuueYIOG0OuMZAtniJYHEI4KQ',
   useCdn: false,
 })
